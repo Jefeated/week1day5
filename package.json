@@ -1,0 +1,25 @@
+{
+  "name": "week1day5",
+  "version": "1.0.0",
+  "description": "yay!",
+  "main": "exportto.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jefeated/week1day5.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jefeated/week1day5/issues"
+  },
+  "homepage": "https://github.com/Jefeated/week1day5#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
