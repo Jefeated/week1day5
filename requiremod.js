@@ -1,5 +1,6 @@
 module.exports = {
+  name: 'Sunshine',
   file: function (){
-    console.log('Hello!');
+    console.log('Hello ' + this.name+'!');
   }
 }
